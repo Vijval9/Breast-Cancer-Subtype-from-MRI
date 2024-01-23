@@ -1,0 +1,8 @@
+Error in callback <bound method _WandbInit._pause_backend of <wandb.sdk.wandb_init._WandbInit object at 0x00000186A6D161D0>> (for post_run_cell), with arguments args (<ExecutionResult object at 186a6e80790, execution_count=11 error_before_exec=None error_in_exec=None info=<ExecutionInfo object at 186daf58310, raw_cell="LR = 0.001
+EPOCHS = 30
+model = ConvNet_MRI3D(NUM_.." store_history=True silent=False shell_futures=True cell_id=vscode-notebook-cell:/d%3A/ML%20Projects/Breast%20Cancer%20Detection/breast-cancer-classification-using-mri-images/4.2.%20DL%20Models/Basic%203D%20CNN/preliminary_model.ipynb#X14sZmlsZQ%3D%3D> result=<wandb.sdk.wandb_run.Run object at 0x00000186BD5C5750>>,),kwargs {}:
+No such comm: 72dc05103e1c4eb4af1382dbf56f35a4
+No such comm: 99ce38b5ac9a40e7990e9249cc9bbab2
+No such comm: 86de735572db4a56bd3f5da9f8099451
+No such comm: d4d6f8c5561a4f8680ac466741b0adce
+No such comm: b64237422c1d42558ede652eaefed5d8

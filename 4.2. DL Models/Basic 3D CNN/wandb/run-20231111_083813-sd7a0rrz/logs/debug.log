@@ -1,0 +1,57 @@
+2023-11-11 08:38:13,135 INFO    MainThread:21276 [wandb_setup.py:_flush():76] Current SDK version is 0.15.10
+2023-11-11 08:38:13,135 INFO    MainThread:21276 [wandb_setup.py:_flush():76] Configure stats pid to 21276
+2023-11-11 08:38:13,135 INFO    MainThread:21276 [wandb_setup.py:_flush():76] Loading settings from C:\Users\krish\.config\wandb\settings
+2023-11-11 08:38:13,135 INFO    MainThread:21276 [wandb_setup.py:_flush():76] Loading settings from d:\ML Projects\Breast Cancer Detection\breast-cancer-classification-using-mri-images\4.2. DL Models\Basic 3D CNN\wandb\settings
+2023-11-11 08:38:13,135 INFO    MainThread:21276 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-11-11 08:38:13,135 INFO    MainThread:21276 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-11-11 08:38:13,135 INFO    MainThread:21276 [wandb_init.py:_log_setup():524] Logging user logs to d:\ML Projects\Breast Cancer Detection\breast-cancer-classification-using-mri-images\4.2. DL Models\Basic 3D CNN\wandb\run-20231111_083813-sd7a0rrz\logs\debug.log
+2023-11-11 08:38:13,135 INFO    MainThread:21276 [wandb_init.py:_log_setup():525] Logging internal logs to d:\ML Projects\Breast Cancer Detection\breast-cancer-classification-using-mri-images\4.2. DL Models\Basic 3D CNN\wandb\run-20231111_083813-sd7a0rrz\logs\debug-internal.log
+2023-11-11 08:38:13,135 INFO    MainThread:21276 [wandb_init.py:_jupyter_setup():470] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000018ECF170310>
+2023-11-11 08:38:13,136 INFO    MainThread:21276 [wandb_init.py:init():564] calling init triggers
+2023-11-11 08:38:13,136 INFO    MainThread:21276 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0001, 'architecture': '3D ConvNet', 'epochs': 10, 'batch_size': 5}
+2023-11-11 08:38:13,136 INFO    MainThread:21276 [wandb_init.py:init():614] starting backend
+2023-11-11 08:38:13,136 INFO    MainThread:21276 [wandb_init.py:init():618] setting up manager
+2023-11-11 08:38:13,139 INFO    MainThread:21276 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2023-11-11 08:38:13,143 INFO    MainThread:21276 [wandb_init.py:init():624] backend started and connected
+2023-11-11 08:38:13,149 INFO    MainThread:21276 [wandb_run.py:_label_probe_notebook():1276] probe notebook
+2023-11-11 08:38:13,150 INFO    MainThread:21276 [wandb_run.py:_label_probe_notebook():1286] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-11-11 08:38:13,150 INFO    MainThread:21276 [wandb_init.py:init():715] updated telemetry
+2023-11-11 08:38:13,205 INFO    MainThread:21276 [wandb_init.py:init():748] communicating run to backend with 90.0 second timeout
+2023-11-11 08:38:14,889 INFO    MainThread:21276 [wandb_run.py:_on_init():2220] communicating current version
+2023-11-11 08:38:15,437 INFO    MainThread:21276 [wandb_run.py:_on_init():2229] got version response upgrade_message: "wandb version 0.16.0 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2023-11-11 08:38:15,437 INFO    MainThread:21276 [wandb_init.py:init():799] starting run threads in backend
+2023-11-11 08:38:24,819 INFO    MainThread:21276 [wandb_run.py:_console_start():2199] atexit reg
+2023-11-11 08:38:24,819 INFO    MainThread:21276 [wandb_run.py:_redirect():2054] redirect: wrap_raw
+2023-11-11 08:38:24,819 INFO    MainThread:21276 [wandb_run.py:_redirect():2119] Wrapping output streams.
+2023-11-11 08:38:24,819 INFO    MainThread:21276 [wandb_run.py:_redirect():2144] Redirects installed.
+2023-11-11 08:38:24,820 INFO    MainThread:21276 [wandb_init.py:init():840] run started, returning control to user process
+2023-11-11 08:38:24,822 INFO    MainThread:21276 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-11-11 08:38:24,822 INFO    MainThread:21276 [wandb_init.py:_pause_backend():435] pausing backend
+2023-11-11 08:38:24,942 INFO    MainThread:21276 [wandb_init.py:_resume_backend():440] resuming backend
+2023-11-11 08:38:25,129 INFO    MainThread:21276 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-11-11 08:38:25,130 INFO    MainThread:21276 [wandb_init.py:_pause_backend():435] pausing backend
+2023-11-11 08:38:25,388 INFO    MainThread:21276 [wandb_init.py:_resume_backend():440] resuming backend
+2023-11-11 09:06:23,547 INFO    MainThread:21276 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-11-11 09:06:23,547 INFO    MainThread:21276 [wandb_init.py:_pause_backend():435] pausing backend
+2023-11-11 09:06:23,672 INFO    MainThread:21276 [wandb_init.py:_resume_backend():440] resuming backend
+2023-11-11 09:06:24,701 INFO    MainThread:21276 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-11-11 09:06:24,702 INFO    MainThread:21276 [wandb_init.py:_pause_backend():435] pausing backend
+2023-11-11 09:13:33,749 INFO    MainThread:21276 [wandb_init.py:_resume_backend():440] resuming backend
+2023-11-11 09:13:33,750 INFO    MainThread:21276 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-11-11 09:13:33,750 INFO    MainThread:21276 [wandb_init.py:_pause_backend():435] pausing backend
+2023-11-11 09:13:35,718 INFO    MainThread:21276 [wandb_init.py:_resume_backend():440] resuming backend
+2023-11-11 09:14:48,806 INFO    MainThread:21276 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-11-11 09:14:48,806 INFO    MainThread:21276 [wandb_init.py:_pause_backend():435] pausing backend
+2023-11-11 09:14:48,883 INFO    MainThread:21276 [wandb_init.py:_resume_backend():440] resuming backend
+2023-11-11 09:14:48,885 INFO    MainThread:21276 [wandb_run.py:_finish():1934] finishing run madkri/Breast Cancer Subtype Prediction/sd7a0rrz
+2023-11-11 09:14:48,885 INFO    MainThread:21276 [jupyter.py:save_history():445] not saving jupyter history
+2023-11-11 09:14:48,885 INFO    MainThread:21276 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-11-11 09:14:48,885 INFO    MainThread:21276 [wandb_init.py:_jupyter_teardown():452] cleaning up jupyter logic
+2023-11-11 09:14:48,885 INFO    MainThread:21276 [wandb_run.py:_atexit_cleanup():2168] got exitcode: 0
+2023-11-11 09:14:48,885 INFO    MainThread:21276 [wandb_run.py:_restore():2151] restore
+2023-11-11 09:14:48,885 INFO    MainThread:21276 [wandb_run.py:_restore():2157] restore done
+2023-11-11 09:14:54,403 INFO    MainThread:21276 [wandb_run.py:_footer_history_summary_info():3557] rendering history
+2023-11-11 09:14:54,403 INFO    MainThread:21276 [wandb_run.py:_footer_history_summary_info():3589] rendering summary
+2023-11-11 09:14:54,408 INFO    MainThread:21276 [wandb_run.py:_footer_sync_info():3516] logging synced files

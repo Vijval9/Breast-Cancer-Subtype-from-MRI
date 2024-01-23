@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22635-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2023-11-11T06:48:18.487551",
+    "startedAt": "2023-11-11T06:48:16.867872",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/madhava20217/Breast-Cancer-Subtype-from-MRI.git",
+        "commit": "334e11c38aa4661930174ed774f90153bbc990a2"
+    },
+    "email": "madhava20217@iiitd.ac.in",
+    "root": "D:/ML Projects/Breast Cancer Detection/breast-cancer-classification-using-mri-images",
+    "host": "DESKTOP-SHC9CD3",
+    "username": "krish",
+    "executable": "c:\\ProgramData\\Anaconda3\\envs\\torchnew\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 3701.0,
+        "min": 0.0,
+        "max": 3701.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3701.0,
+            "min": 0.0,
+            "max": 3701.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1907.7128868103027,
+            "used": 1288.7615852355957
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 47.92281723022461
+    }
+}
